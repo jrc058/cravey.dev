@@ -1,0 +1,6 @@
+/* Custom CSS for cravey.dev */
+
+/* Move the left sidebar 30px to the right */
+.book-menu {
+  left: 30px;
+}

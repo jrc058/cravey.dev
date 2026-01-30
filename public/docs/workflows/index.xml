@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workflows on Cravey.dev</title><link>https://cravey.dev/docs/workflows/</link><description>Recent content in Workflows on Cravey.dev</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 29 Jan 2026 21:00:00 -0600</lastBuildDate><atom:link href="https://cravey.dev/docs/workflows/index.xml" rel="self" type="application/rss+xml"/><item><title>Embed images into cravey.dev</title><link>https://cravey.dev/docs/workflows/image-embeds/</link><pubDate>Thu, 29 Jan 2026 21:00:00 -0600</pubDate><guid>https://cravey.dev/docs/workflows/image-embeds/</guid><description>&lt;h1 id="reference-workflow"&gt;Reference workflow&lt;a class="anchor" href="#reference-workflow"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Where to put the image:&lt;/strong&gt; You create a folder for your content page and place the image &lt;em&gt;directly inside that folder&lt;/em&gt; with the markdown file. For this to work, your markdown file must be named &lt;code&gt;index.md&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s use your &lt;code&gt;cyberdecktech&lt;/code&gt; page as an example. The structure would look like this:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;content/
+└── docs/
+ └── portfolio/
+ └── cyberdecktech/ &amp;lt;-- This is the &amp;#34;Page Bundle&amp;#34;
+ ├── index.md &amp;lt;-- Your content for the page
+ └── my-deck.png &amp;lt;-- The image lives right next to the content!&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Creating Living Server Documentation: An Automated Workflow</title><link>https://cravey.dev/docs/workflows/living-server-documentation/</link><pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate><guid>https://cravey.dev/docs/workflows/living-server-documentation/</guid><description>&lt;h2 id="the-never-ending-quest-for-current-documentation"&gt;The Never-Ending Quest for Current Documentation&lt;a class="anchor" href="#the-never-ending-quest-for-current-documentation"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Over the year 2025, my server had ongoing developments, and my AI counterpart routinely had outdated information about the server and it continuously had to run commands to find current information. I manually kept compiling it all into one huge server document, comprehensive and unnecessarily long so it ruined context windows.&lt;/p&gt;
+&lt;p&gt;Finally I got smart, used a million year old technology and cronjob&amp;rsquo;d some scripts. The script outputs several different files so the AI can scan the directory and find relevant information quickly and efficiently.&lt;/p&gt;</description></item></channel></rss>

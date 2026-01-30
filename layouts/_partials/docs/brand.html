@@ -1,0 +1,27 @@
+{{/*
+  The entire block is now one single link (<a> tag) to restore the original layout.
+  I've added flex-direction: column to stack the items vertically.
+*/}}
+<a class="flex align-center" href="{{ .Site.Home.RelPermalink }}" style="flex-direction: column;">
+  {{- with .Site.Params.BookLogo -}}
+    <img src="{{ . | relURL }}" alt="Logo" />
+  {{- end -}}
+  <h1 class="book-brand-title">{{ .Site.Title }}</h1>
+
+  {{/* Subtitle is now INSIDE the link */}}
+  <p class="book-brand-subtitle">
+    Customer Success | Amazon | Self-Host Enthusiast | Digital Sovereignty Advocate
+  </p>
+</a>
+
+<style>
+.book-brand-subtitle {
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  margin-top: 0.25rem;
+  text-align: center;
+}
+.book-brand-title {
+  margin-bottom: 0 !important;
+}
+</style>

@@ -1,0 +1,21 @@
+baseURL = 'https://cravey.dev/'
+languageCode = 'en-us'
+title = 'Cravey.dev'
+theme = "book"
+
+# Allow raw HTML in markdown files
+[markup.goldmark.renderer]
+  unsafe = true
+
+# Book Theme specific configurations
+[params]
+  BookTheme = "auto"
+  BookLogo = "/images/profile.png"
+  BookSearch = true
+  BookPortableLinks = true
+  BookKeyboardNavigate = true
+  BookMenuBundle = "/docs"
+  BookCustomCss = ["css/custom.css"]
+
+
+  BookEnableReaderMode = true

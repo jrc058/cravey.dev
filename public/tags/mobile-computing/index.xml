@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mobile Computing on Cravey.dev</title><link>https://cravey.dev/tags/mobile-computing/</link><description>Recent content in Mobile Computing on Cravey.dev</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 27 Jan 2026 21:00:00 -0600</lastBuildDate><atom:link href="https://cravey.dev/tags/mobile-computing/index.xml" rel="self" type="application/rss+xml"/><item><title>CyberDeck Tech</title><link>https://cravey.dev/docs/projects/cyberdecktech/</link><pubDate>Tue, 27 Jan 2026 21:00:00 -0600</pubDate><guid>https://cravey.dev/docs/projects/cyberdecktech/</guid><description>&lt;h2 id="cyberdeck-tech"&gt;CyberDeck Tech&lt;a class="anchor" href="#cyberdeck-tech"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://cyberdecktech.com"&gt;CyberDeck Tech&lt;/a&gt; is a project dedicated to exploring the philosophy of cyberdecks and digital sovereignty. It serves as a curated digital garden for ideas around privacy-first mobile computing and local AI inference.&lt;/p&gt;
+&lt;h3 id="technologies-used"&gt;Technologies Used&lt;a class="anchor" href="#technologies-used"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jekyll&lt;/li&gt;
+&lt;li&gt;ReactJS&lt;/li&gt;
+&lt;li&gt;Vibe coded with Amazon Kiro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="site-creation"&gt;Site Creation&lt;a class="anchor" href="#site-creation"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The central concept of the site are obsidian notes I made about the Steam Deck and cyberdecks as a whole- the ecosystem of a touch screen device that is not vendor locked to a mobile operating system, with a novel form factor that has potential for more utility.&lt;/p&gt;</description></item></channel></rss>

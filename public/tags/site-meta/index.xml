@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Site Meta on Cravey.dev</title><link>https://cravey.dev/tags/site-meta/</link><description>Recent content in Site Meta on Cravey.dev</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 29 Jan 2026 21:00:00 -0600</lastBuildDate><atom:link href="https://cravey.dev/tags/site-meta/index.xml" rel="self" type="application/rss+xml"/><item><title>Embed images into cravey.dev</title><link>https://cravey.dev/docs/workflows/image-embeds/</link><pubDate>Thu, 29 Jan 2026 21:00:00 -0600</pubDate><guid>https://cravey.dev/docs/workflows/image-embeds/</guid><description>&lt;h1 id="reference-workflow"&gt;Reference workflow&lt;a class="anchor" href="#reference-workflow"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Where to put the image:&lt;/strong&gt; You create a folder for your content page and place the image &lt;em&gt;directly inside that folder&lt;/em&gt; with the markdown file. For this to work, your markdown file must be named &lt;code&gt;index.md&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s use your &lt;code&gt;cyberdecktech&lt;/code&gt; page as an example. The structure would look like this:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;content/
+└── docs/
+ └── portfolio/
+ └── cyberdecktech/ &amp;lt;-- This is the &amp;#34;Page Bundle&amp;#34;
+ ├── index.md &amp;lt;-- Your content for the page
+ └── my-deck.png &amp;lt;-- The image lives right next to the content!&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

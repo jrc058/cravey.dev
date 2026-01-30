@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Cravey.dev</title>
+    <link>https://cravey.dev/docs/portfolio/</link>
+    <description>Recent content in Portfolio on Cravey.dev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jan 2026 21:00:00 -0600</lastBuildDate>
+    <atom:link href="https://cravey.dev/docs/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberDeck Tech</title>
+      <link>https://cravey.dev/docs/portfolio/cyberdecktech/</link>
+      <pubDate>Tue, 27 Jan 2026 21:00:00 -0600</pubDate>
+      <guid>https://cravey.dev/docs/portfolio/cyberdecktech/</guid>
+      <description>&lt;h2 id=&#34;cyberdeck-tech&#34;&gt;CyberDeck Tech&lt;a class=&#34;anchor&#34; href=&#34;#cyberdeck-tech&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cyberdecktech.com&#34;&gt;CyberDeck Tech&lt;/a&gt; is a project dedicated to exploring the philosophy of cyberdecks and digital sovereignty. It serves as a curated digital garden for ideas around privacy-first mobile computing and local AI inference.&lt;/p&gt;&#xA;&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used&lt;a class=&#34;anchor&#34; href=&#34;#technologies-used&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jekyll&lt;/li&gt;&#xA;&lt;li&gt;ReactJS&lt;/li&gt;&#xA;&lt;li&gt;Vibe coded with Amazon Kiro&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;site-creation&#34;&gt;Site Creation&lt;a class=&#34;anchor&#34; href=&#34;#site-creation&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The central concept of the site are obsidian notes I made about the Steam Deck and cyberdecks as a whole- the ecosystem of a touch screen device that is not vendor locked to a mobile operating system, with a novel form factor that has potential for more utility.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
